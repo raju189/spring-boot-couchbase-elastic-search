@@ -1,0 +1,10 @@
+*~
+*.swp
+*.tmp
+*.DS_Store
+.git/
+tmp/
+*.log
+.dockerignore
+.idea
+*.iml

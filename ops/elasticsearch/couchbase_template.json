@@ -1,0 +1,37 @@
+{
+  "template": "*",
+  "order": 10,
+  "mappings": {
+    "couchbaseCheckpoint": {
+      "_source": {
+        "includes": [
+          "doc.*"
+        ]
+      },
+      "dynamic_templates": [
+        {
+          "store_no_index": {
+            "match": "*",
+            "mapping": {
+              "store": "no",
+              "index": "no",
+              "include_in_all": false
+            }
+          }
+        }
+      ]
+    },
+    "couchbaseDocument": {
+      "properties": {
+        "doc.createdAtDate": {
+          "type": "date",
+          "format": "epoch_millis"
+        },
+        "doc.ipAddress": {
+          "type": "ip"
+        }
+
+      }
+    }
+  }
+}

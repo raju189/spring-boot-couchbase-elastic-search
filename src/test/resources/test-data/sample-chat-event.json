@@ -1,0 +1,54 @@
+{
+  "id": "3dbb76ee-76ce-4eb9-bd21-f2ae483a0b75",
+  "widget_id": "61d5dc04-299a-4335-bfd3-2803d33371e9",
+  "url": "https://www.snapengage.com/viewcase?c=3dbb76ee-76ce-4eb9-bd21-f2ae483a0b75",
+  "type": "offline",
+  "requested_by": "man@made.com",
+  "requester_details": {
+    "name": "Bruce",
+    "emails": [
+      "fake@address.com"
+    ],
+    "phones": [],
+    "social_profile_links": [],
+    "age": 0,
+    "notes": "",
+    "avatars": [],
+    "other_data": []
+  },
+  "description": "customer query",
+  "created_at_date": "Mar 1, 2018 4:52:51 PM",
+  "created_at_seconds": 1519923171,
+  "created_at_milliseconds": 434,
+  "proactive_chat": false,
+  "page_url": "http://localhost:63342/testclient/test-scripts/home.html?_ijt=47c6q2l7sulol3j3icddvatdds",
+  "referrer_url": "",
+  "entry_url": "http://localhost:63342/testclient/test-scripts/home.html?_ijt=47c6q2l7sulol3j3icddvatdds",
+  "ip_address": "217.89.172.51",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6",
+  "browser": "Safari (11.0.3)",
+  "os": "Apple OS X 10.13.3",
+  "country_code": "DE",
+  "country": "Germany",
+  "region": "16",
+  "city": "Berlin",
+  "latitude": 52.5305,
+  "longitude": 13.4053,
+  "source_id": 1,
+  "chat_waittime": 0,
+  "chat_duration": 0,
+  "language_code": "en-us",
+  "plugins": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "javascript_variables": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "destination_url": "error:Endpoint HTTP response code 404"
+}
